@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Dr. Mutua Kilai\n   Academic Block\n\n\n\n\n\n   Every Thursday\n   May 2024 - August 2024\n   4.00PM- 6.00PM\n   Virtual"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Lecture notes will be uploaded weekly here."
+  },
+  {
+    "objectID": "index.html#course-purpose",
+    "href": "index.html#course-purpose",
+    "title": "Schedule",
+    "section": "Course Purpose",
+    "text": "Course Purpose\nThe purpose is to equip the learners with the mathematical knowledge and research skills in modern mathematical softwares"
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "Schedule",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the completion of the course the learners should be able to: \nPhD Pure Mathematics\n\nConstruct proofs of different mathematical statements\nUse LaTeX document processing system to write mathematical articles\nUse Mathematical softwares to analyze mathematical models\n\nData Science and Statistics\n\nExplain basic research concepts\nDiscuss relevant tools and skills in conducting research\nExplain common types of data applied in Business Research\nWrite a research proposal\nCollect and Analyze data\nWrite a research report"
+  },
+  {
+    "objectID": "index.html#contents",
+    "href": "index.html#contents",
+    "title": "Schedule",
+    "section": "Contents",
+    "text": "Contents\nPhD Pure Mathematics\nWe will cover the following items and much more during the classes:\nMathematical Writing in LaTeX document processing system: cross referencing, diagram inclusion, sectioning, document classes, LaTeX packages, mathematics computation and analysis using softwares such as R, MATLAB, SAGE, GAP, Mathematica and Python.\nData Science and Statistics\nTypes of research, research process, Formulating a research problem, reviewing literature, identifying variables, constructing hypothesis, conceptualizing a study design, constructing instruments for data collection, selecting method of data collection, establishing validity and reliability of research instrument, processing and displaying data, writing research report, referencing."
+  },
+  {
+    "objectID": "assignment.html",
+    "href": "assignment.html",
+    "title": "Assignments",
+    "section": "",
+    "text": "This webpage contains the weekly tasks after the lectures.\nSubmission criteria is as discussed during Lectures.\nLate submission will attract a score of 0."
+  },
+  {
+    "objectID": "solutions.html",
+    "href": "solutions.html",
+    "title": "Solutions",
+    "section": "",
+    "text": "The solutions to the following items are available here:\n\n Assignments"
+  }
+]

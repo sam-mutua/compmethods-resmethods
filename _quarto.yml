@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Research Methodology/Computational Methods"
+  favicon: "images/imgfile.png"
+  page-footer:
+    left: "&copy;2024 Dr. Mutua Kilai"
+    right: Made with <i class="fa-solid fa-heart"></i> and [Quarto](https://quarto.org/)
+  sidebar:
+    background: "#a378dd"
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Lecture Slides
+      - href: assignment.qmd
+        text: Assignment
+      - href: solutions.qmd
+        text: Solutions
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

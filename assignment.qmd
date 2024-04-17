@@ -1,0 +1,9 @@
+---
+title: "Assignments"
+---
+
+This webpage contains the weekly tasks after the lectures.
+
+Submission criteria is as discussed during Lectures.
+
+Late submission will attract a score of 0.
