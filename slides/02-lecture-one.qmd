@@ -1,0 +1,119 @@
+# Introduction to Research
+
+## Learning Objectives
+
+<br>
+
+After the end of the lesson, students should be able to:
+
+1. Define research in general
+
+2. Enumerate the characteristics of research
+
+3. Identify the different types of research
+
+4. Describe the broad steps involved in research process
+
+5. Explain the roles of research in development
+
+
+## Definition of Research
+
+:::{.callout-tip icon=false}
+# Definition 1
+Research is the scientific and systematic search for pertinent information on a specific topic.
+:::
+
+<br>
+
+:::{.callout-note icon=false}
+# Definition 2
+Research is scientific inquiry aimed at learning new facts, testing ideas etc.
+:::
+
+<br>
+
+:::{.callout-important icon=false}
+# Definition 3
+Research is the systematic collection, analysis and interpretation of data to generate new knowledge and answer a certain question or solve a problem.
+:::
+
+
+## Objectives of Research
+
+- The main aim of research is to find out the truth which is hidden and which has not been discovered as yet.
+
+- Generally the objectives of research can fall under the following:
+
+1. To gain familiarity with a phenomenon or to achieve new insights into it.
+
+2. To portray accurately the characteristics of a particular individual, situation or a group.
+
+3. To determine the frequency with which something occurs or with which it is associated with something else.
+
+4. To test a hypothesis of a causal relationship between variables.
+
+## Motivation in Research
+
+- The possible motives for doing research may be either one or more of the following:
+
+i. Desire to get a research degree along with its benefits
+
+ii. Desire to face the challenge in solving the unsolved problems.
+
+iii. Desire to get intellectual joy of doing some creative work
+
+iv. Desire to be of service to the society
+
+v. Desire to get respectability
+
+
+## Characteristics of Research
+
+a. It demands a clear statement of the problem
+
+b. It requires a plan
+
+c. It builds on existing data, using both positive and negative findings
+
+d. New data should be collected as required and be organized in such a way that they answer the research questions.
+
+
+## Types of Research
+
+::: columns
+::: {.column width="40%"}
+#### a. Descriptive Research
+- This includes surveys and fact-finding inquiries of different kinds.
+
+- The major purpose of descriptive research is description of the state of affairs as it exists in present.
+
+#### b. Analytical Research
+
+- The researcher has to use facts or information already available and analyze these to make a critical evaluation of the material.
+
+:::
+
+::: {.column width="40%"}
+#### c. Applied Research
+
+- This aims at finding a solution for an immediate problem facing a society or an industry.
+
+#### d. Fundamental Research
+
+- This is mainly concerned with generalizations and with the formulations of theory.
+
+
+#### e. Quantitative Research
+
+- This is based on the measurement of quantity or amount. 
+
+:::
+
+::: {.column width="20%"}
+#### f. Qualitative Research
+
+- This is concerned with a qualitative phenomena. e.g Investigating reasons for human behaviour.
+:::
+
+:::

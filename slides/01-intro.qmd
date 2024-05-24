@@ -1,0 +1,86 @@
+### Purpose of the course
+
+*Equip the learner with the skills necessary to carry out research for decision making and for solving practical management problems in a dynamic business world.*
+
+
+### Course Objectives
+
+1. Explain basic research concepts
+
+2. Discuss relevant tools and skills in conducting research
+
+3. Explain common types of data applied in business research
+
+4. Write a research proposal
+
+5. Collect and analyze data
+
+6. Write a research report
+
+
+## Logistics
+
+<br>
+
+**Materials**
+
+[sam-mutua.github.io/compmethods-resmethods](https://sam-mutua.github.io/compmethods-resmethods/)
+
+<br>
+
+**Exercises**
+
+Exercises will be posted under the [assignment section](https://sam-mutua.github.io/compmethods-resmethods/assignment.html) and their answers under the [solution section](https://sam-mutua.github.io/compmethods-resmethods/solutions.html)
+
+<br>
+
+Feel free to interrupt me with questions/comments at any time ✋.
+
+<br>
+
+**We are all learning.**
+
+## About the Lecturer
+
+::: columns
+::: {.column width="50%"}
+
+- Statistics Lecturer, [Department of Pure and Applied Sciences](https://spas.kyu.ac.ke/spas-pages/departments/pure-and-applied-sciences) at [Kirinyaga University](https://www.kyu.ac.ke/)
+
+- Author and Maintainer of several R Packages [NovelDistns](https://cran.r-project.org/web/packages/NovelDistns/index.html), [rKenyaForex](https://cran.r-project.org/web/packages/rKenyaForex/rKenyaForex.pdf) and [AHSurv](https://cran.r-project.org/web/packages/AHSurv/index.html)
+
+- Active member of **Africa R Consortium**
+:::
+ 
+::: {.column width="50%"}
+- Peer Reviewer at Alexandria Engineering Journal and Journal of Probability and Statistics
+
+- Passionate about Data Science and Machine Learning
+
+- Published **over 25** publications in Peer Reviewed Journals
+
+:::
+:::
+
+
+## Introductions
+
+- Your Name
+
+- Your Course
+
+- Your Research Interests
+
+
+
+## Groups
+
+- We have the following groups in this semester:
+
+1. MSc. Statistics
+
+2. MSc. Data Science and Analytics
+
+3. PhD. Pure Mathematics
+
+- For the MSc. Students the unit name is **SDS 3118: Research Methodology** while for the PhD students the unit name is **PUM 3106: Computational Methods**

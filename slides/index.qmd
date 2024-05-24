@@ -1,0 +1,20 @@
+---
+title: "SDS 3118: Research Methodology <br> PUM 4106: Computational Methods"
+author: "Dr. Mutua Kilai, PhD <br> <br> May-August 2024 <br> <br> Department of Pure and Applied Sciences"
+footer: "Dr. Mutua Kilai, PhD"
+logo: "uni.png"
+format: 
+  revealjs:
+    width: 1600
+    height: 900
+    theme: edtheme.scss
+    slide-number: true
+    css: style.css
+    chalkboard: true
+---
+
+{{< include 01-intro.qmd >}}
+
+{{< include 02-lecture-one.qmd >}}
+
+{{< include 03-lecture-one.qmd >}}

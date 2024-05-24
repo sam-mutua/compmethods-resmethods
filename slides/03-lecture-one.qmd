@@ -1,0 +1,462 @@
+# Research Process
+
+## Introduction
+
+:::{.callout-caution icon=false}
+### Definition
+Research Process consists of series of actions or steps necessary to effectively carry out research and the desired sequencing of these steps. 
+:::
+
+The steps in the research process are given below:
+
+::: columns
+::: {.column width="50%"}
+### Steps
+i. Define the research problem
+
+ii. Review the literature (*Review concepts and theories*, *Review previous research finding*)
+
+iii. Formulate the hypothesis
+
+iv. Design Research
+
+:::
+
+::: {.column width="40%"}
+### Steps Cont'd
+v. Collect data
+
+vi. Analyze the data
+
+vii. Interpret and report
+
+:::
+
+:::
+
+
+
+## Qualities of good research
+
+:::{.callout-tip icon=false}
+### Good research is systematic
+Means that research is structured with specified steps to be taken in a specified sequence in accordance with well defined set of rules.
+:::
+
+
+:::{.callout-tip icon=false}
+### Good research is logical
+Research is guided by the rules of logical reasoning and logical process of induction and deduction are of great value in carrying out research.
+:::
+
+:::{.callout-tip icon=false}
+### Good research is empirical
+It implies that research is related basically to one or more aspects of a real situation and deals with concrete data that provides a basis for external validity to research results
+:::
+
+
+:::{.callout-tip icon=false}
+### Good research is replicable
+This characteristic allows research results to be verified by replicating the study and thereby building a sound basis for decisions.
+:::
+
+
+# Defining the Research Problem
+
+## Introduction
+
+- In research process, the first and foremost step happens to be that of selecting and properly defining a research problem
+
+- A researcher must find the problem and formulate it so that it becomes susceptible to research.
+
+- **To define a problem correctly, a researcher must know: What a problem is?**
+
+
+## Problem identification
+
+- Whether a problem requires research problem depends on **three** conditions:
+
+i. There should be a perceived difference or discrepancy between what it is and what should be.
+
+ii. The reasons for this difference should be **unclear**
+
+iii. There should be more than one possible and plausible answer to the question.
+
+## Selecting the research problem
+
+- The following points should be observed by a researcher in selecting a research problem:
+
+i. Subject which is overdone should not be normally chosen.
+
+ii. Controversial subject should not become the choice of an average researcher.
+
+iii. Too narrow or too vague problems should be avoided
+
+iv. The subject selected for research should be familiar and feasible 
+
+
+## Criteria for selecting a research problem
+
+:::{.callout-note icon=false}
+### Relevance
+- The topic you choose should be a priority problem.
+- Questions to be asked include:
+  - How large or widespread is the problem?
+  - Who is affected?
+  - How severe is the problem.
+:::
+
+
+:::{.callout-note icon=false}
+### Avoidance of duplication
+- Investigate whether the topic has been researcher.
+:::
+
+## Cont'd
+
+:::{.callout-note icon=false}
+### Feasibility
+- Consider the complexity of the problem and the resources you will require to carry out the study.
+:::
+
+
+:::{.callout-note icon=false}
+### Applicability of possible results and recommendations
+- Is it likely that the recommendations from the study will be applied?
+:::
+
+
+# Research Designs
+
+## Introduction
+
+::: {.callout-tip icon=false}
+## Definition
+A research design is the arrangement of conditions for collection and analysis of data in a manner that aims to combine relevance to the research purpose with economy in procedure.
+:::
+
+
+One may split the overall research design into the following parts:
+
+1. *The sampling design:* which deals with the method of selecting items to be observed for the given study
+
+2. *The observational design* which relates to the conditions under which the observations are to be made
+
+3. *The statistical design* which concerns with the question of how many items are to observed and how the information and data gathered are to be analysed
+
+4. *The operational design* which deals with the techniques by which the procedures specified in the sampling, statistical and observational designs can be carried out. 
+
+
+# Need for Research Design
+
+- Research design is needed because it facilitates the smooth sailing of the various research operations, thereby making research as efficient as possible yielding maximal information with minimal expenditure of effort and time.
+
+
+- The design helps the researcher to organize his ideas in a form whereby it will be possible for him to look for flaws and inadequacies.
+
+
+## Features of a Good Research Design
+
+- A good design is often characterized by adjectives like *flexible,appropriate,efficient, economical etc*
+
+- Generally the design which **minimizes bias and maximizes the reliability** of the data collected and analyzed is considered a good design.
+
+- The design which gives the **smallest experimental error** is supposed to be the best design in many investigations.
+
+- A design which yields **maximal information and provides an opportunity for considering many different aspects** of a problem is considered most appropriate and efficient design in respect of many research problems
+
+
+## Cont'd
+
+- A research design appropriate for a particular research problem, usually involves the following considerations:
+
+  - The means of obtaining the information
+  
+  - The availability and skills of the researcher and his/her staff
+  
+  - The objective of the problem to be studied
+  
+  - The availability of time and money for the research work
+
+
+## Concepts Relating to Research Design
+
+a. **Dependent and independent variables**
+
+- If one variable depends upon or is a consequence of the other variable it is termed as **dependent variable** and the variable that is antecedent to the dependent variable is called **independent variable**
+
+b. **Extraneous Variable**
+
+- Independent variables that are not related to the purpose of the study but may affect the dependent variable are termed as *extraneous variable*
+
+## Cont'd
+
+c. **Control**
+
+- The term *control* is used when we design the study minimizing the effects of extraneous independent variables.
+
+
+
+
+d. **Confounded Relationship**
+
+- When the dependent variable is not free from the influence of extraneous variable(s), the relationship between the dependent and independent variables is said to be confounded by an extraneous variable(s).
+
+## Cont'd
+
+e. **Research Hypothesis**
+
+- The research hypothesis is a predictive statement that relates an independent variable to a dependent variable.
+
+f. **Experimental and non-experimental hypothesis-testing approach**
+
+- When the purpose of research is to test a research hypothesis, it is termed as hypothesis-testing research.
+
+- Research in which the independent variable is manipulated is termed ‘experimental hypothesis-testing research’ and a research in which an independent variable is not manipulated is called ‘non-experimental hypothesis-testing research’.
+
+
+## Cont'd
+
+g. **Experimental and Control Group**
+
+- In an experimental hypothesis-testing research when a group is exposed to usual conditions, it is termed a ‘control group’, but when the group is exposed to some novel or special condition, it is termed an ‘experimental group’.
+
+
+h. **Treatment**
+
+- The different conditions under which experimental and control groups are put are usually referred to as ‘treatments’.
+
+
+## Cont'd
+
+i. **Experiment**
+
+- The process of examining the truth of a statistical hypothesis, relating to some research problem, is known as an experiment
+
+j. **Experimental Units**
+
+- The pre-determined plots or the blocks, where different treatments are used, are known as experimental units.
+
+
+
+# Different Research Designs
+
+## Introduction
+
+- Different research designs can be conveniently described if we categorize them as:
+
+  i. Research design in case of *exploratory research studies*
+  
+  ii. Research design in case of *descriptive and diagnostic research studies*
+  
+  iii. Research design in case of *hypothesis-testing research studies*
+
+
+## Research Design in case of Exploratory Research Studies
+
+- Exploratory research studies are also termed as formulative research studies.
+
+- The main purpose of such studies is that of formulating a problem for more precise investigation or of developing the working hypothesis from an operational point of view.
+
+- The major emphasis in such studies is on the discovery of ideas and insights.
+
+- Generally the following three methods in the context of research design for such design are talked about:
+
+  i. The survey of concerning literature
+  ii. The experience survey
+  iii. The analysis of insight-stimulating examples
+  
+  
+
+## Research design in case of descriptive and diagnostic research studies
+
+- Descriptive research studies are those studies which are concerned with describing the characteristics of a particular individual, or of a group, whereas diagnostic research studies determine the frequency with which something occurs or its association with something else.
+
+- The studies concerning whether certain variables are associated are examples of diagnostic research studies.
+
+
+## Research design in case of hypothesis-testing research design
+
+- Hypothesis-testing research studies (generally known as experimental studies) are those where the researcher tests the hypotheses of causal relationships between variables.
+
+
+
+# Methods of Data Collection
+
+## Introduction
+
+- The task of data collection begins after a research problem has been defined and research design/plan chalked out.
+
+- While deciding about the method of data collection to be used for the study, the researcher should keep in mind two types of data:
+
+  i. **Primary data** - Are those that are collected afresh and for the first time and thus happen to be original in character.
+  
+  ii. **Secondary data** - Are those which have already been collected by someone else and which have already been passed through the statistical process.
+  
+
+# Collection of Primary Data
+
+## Introduction
+
+- There are several methods of collecting primary data which include:
+
+  i. Observation Method
+  
+  ii. Interview Method
+  
+  iii. Through questionnaires
+  
+  iv. Through schedules
+
+
+# Observation Method
+
+::: {.callout-tip icon=false}
+## Definition
+*The observation method is the most commonly used method especially in study relating to behavioural studies.*
+:::
+
+
+::: {.callout-important icon=false}
+## Advantages
+- Subjective bias is eliminated if observation is done accurately.
+
+- The information obtained under this method relates to what is currently happening
+
+- This method is independent of respondents’ willingness to respond and as such is relatively less demanding of active cooperation on the part of respondents as happens to be the case in the interview or the questionnaire method.
+:::
+
+
+## Cont'd
+
+::: {.callout-warning icon=false}
+## Disadvantages
+
+- It is an expensive method
+
+- The information provided by this method is very limited
+
+- Unforeseen factors may interfere with the observational task
+:::
+
+
+# Interview Method
+
+- The interview method of collecting data involves presentation of oral-verbal stimuli and reply in terms of oral-verbal responses.
+
+
+- This method can be used through personal interviews and, if possible, through telephone interviews.
+
+
+# Personal Interviews
+
+::: {.callout-tip icon=false}
+## Definition
+Personal interview method requires a person known as the interviewer asking questions generally in a face-to-face contact to the other person or persons.
+:::
+
+
+# Advantages of Personal Interviews
+
+- More information and that too in-depth can be obtained.
+
+- There is greater flexibility in this method
+
+- The interviewer can usually control which person(s) will answer the questions.
+
+- The interviewer can collect supplementary information about the respondent’s personal characteristics and environment which is often of great value in interpreting results.
+
+- The language of the interview can be adopted to the ability or educational level of the person interviewed and as such misinterpretations concerning questions can be avoided.
+
+
+# Disadvantages of Personal Interviews
+
+- It is a very expensive method, specially when large and widely spread geographical sample is taken.
+
+- There remains the possibility of the bias of interviewer as well as that of the respondent; there also remains the headache of supervision and control of interviewers.
+
+- Interviewing at times may also introduce systematic errors.
+
+- Effective interview presupposes proper rapport with respondents that would facilitate free and frank responses. This is often a very difficult requirement.
+
+
+# Telephone Interviews
+
+::: {.callout-tip icon=false}
+- This method of collecting information consists in contacting respondents on telephone itself. 
+
+- It is not a very widely used method, but plays important part in industrial surveys, particularly in developed regions.
+:::
+
+
+## Advantages of Telephone Interviews
+
+- It is more flexible in comparison to mailing method.
+
+- It is faster than other methods i.e., a quick way of obtaining information.
+
+- It is cheaper than personal interviewing method; here the cost per response is relatively low.
+
+- Recall is easy; callbacks are simple and economical.
+
+- There is a higher rate of response than what we have in mailing method; the non-response is generally very low.
+
+- Replies can be recorded without causing embarrassment to respondents.
+
+- Interviewer can explain requirements more easily.
+
+
+## Disadvantages of Telephone Interviews
+
+- Little time is given to respondents for considered answers;
+
+- Surveys are restricted to respondents who have telephone facilities.
+
+- Extensive geographical coverage may get restricted by cost considerations.
+
+- It is not suitable for intensive surveys where comprehensive answers are required to various questions.
+
+- Possibility of the bias of the interviewer is relatively more.
+
+- Questions have to be short and to the point; probes are difficult to handle.
+
+
+## Collecting Data Through Questionnaire
+
+
+::: {.callout-tip icon=false}
+
+## Definition
+
+- This method of data collection is quite popular, particularly in case of big enquiries. 
+
+- It is being adopted by private individuals, research workers, private and public organisations and even by governments.
+:::
+
+
+## Advantages of Questionnaires
+
+- There is low cost even when the universe is large and is widely spread geographically.
+
+- It is free from the bias of the interviewer; answers are in respondents’ own words.
+
+- Respondents have adequate time to give well thought out answers.
+
+- Respondents, who are not easily approachable, can also be reached conveniently.
+
+- Large samples can be made use of and thus the results can be made more dependable and reliable.
+
+
+## Disadvantages of Questionnaires
+
+- Low rate of return of the duly filled in questionnaires; bias due to no-response is often indeterminate.
+
+- It can be used only when respondents are educated and cooperating.
+
+- The control over questionnaire may be lost once it is sent.
+
+- It is difficult to know whether willing respondents are truly representative.
+
+- This method is likely to be the slowest of all.
+
+

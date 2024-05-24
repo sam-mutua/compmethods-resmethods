@@ -4,35 +4,50 @@
     "href": "index.html",
     "title": "Schedule",
     "section": "",
-    "text": "Dr. Mutua Kilai\n   Academic Block\n\n\n\n\n\n   Every Thursday\n   May 2024 - August 2024\n   4.00PM- 6.00PM\n   Virtual"
+    "text": "Dr. Mutua Kilai\n   Academic Block\n\n\n\n\n\n   Every Thursday\n   May 2024 - August 2024\n   4.00PM- 6.00PM\n   Virtual",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Lecture Slides",
     "section": "",
-    "text": "Lecture notes will be uploaded weekly here."
+    "text": "Lecture notes will be uploaded weekly here.",
+    "crumbs": [
+      "Lecture Slides"
+    ]
   },
   {
     "objectID": "index.html#course-purpose",
     "href": "index.html#course-purpose",
     "title": "Schedule",
     "section": "Course Purpose",
-    "text": "Course Purpose\nThe purpose is to equip the learners with the mathematical knowledge and research skills in modern mathematical softwares"
+    "text": "Course Purpose\nThe purpose is to equip the learners with the mathematical knowledge and research skills in modern mathematical softwares",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "index.html#learning-outcomes",
     "href": "index.html#learning-outcomes",
     "title": "Schedule",
     "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the completion of the course the learners should be able to: \nPhD Pure Mathematics\n\nConstruct proofs of different mathematical statements\nUse LaTeX document processing system to write mathematical articles\nUse Mathematical softwares to analyze mathematical models\n\nData Science and Statistics\n\nExplain basic research concepts\nDiscuss relevant tools and skills in conducting research\nExplain common types of data applied in Business Research\nWrite a research proposal\nCollect and Analyze data\nWrite a research report"
+    "text": "Learning Outcomes\nBy the completion of the course the learners should be able to: \nPhD Pure Mathematics\n\nConstruct proofs of different mathematical statements\nUse LaTeX document processing system to write mathematical articles\nUse Mathematical softwares to analyze mathematical models\n\nData Science and Statistics\n\nExplain basic research concepts\nDiscuss relevant tools and skills in conducting research\nExplain common types of data applied in Business Research\nWrite a research proposal\nCollect and Analyze data\nWrite a research report",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "index.html#contents",
     "href": "index.html#contents",
     "title": "Schedule",
     "section": "Contents",
-    "text": "Contents\nPhD Pure Mathematics\nWe will cover the following items and much more during the classes:\nMathematical Writing in LaTeX document processing system: cross referencing, diagram inclusion, sectioning, document classes, LaTeX packages, mathematics computation and analysis using softwares such as R, MATLAB, SAGE, GAP, Mathematica and Python.\nData Science and Statistics\nTypes of research, research process, Formulating a research problem, reviewing literature, identifying variables, constructing hypothesis, conceptualizing a study design, constructing instruments for data collection, selecting method of data collection, establishing validity and reliability of research instrument, processing and displaying data, writing research report, referencing."
+    "text": "Contents\nPhD Pure Mathematics\nWe will cover the following items and much more during the classes:\nMathematical Writing in LaTeX document processing system: cross referencing, diagram inclusion, sectioning, document classes, LaTeX packages, mathematics computation and analysis using softwares such as R, MATLAB, SAGE, GAP, Mathematica and Python.\nData Science and Statistics\nTypes of research, research process, Formulating a research problem, reviewing literature, identifying variables, constructing hypothesis, conceptualizing a study design, constructing instruments for data collection, selecting method of data collection, establishing validity and reliability of research instrument, processing and displaying data, writing research report, referencing.",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
     "objectID": "assignment.html",
@@ -47,5 +62,876 @@
     "title": "Solutions",
     "section": "",
     "text": "The solutions to the following items are available here:\n\n Assignments"
+  },
+  {
+    "objectID": "slides/index.html#logistics",
+    "href": "slides/index.html#logistics",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Logistics",
+    "text": "Logistics\n\nMaterials\nsam-mutua.github.io/compmethods-resmethods\n\nExercises\nExercises will be posted under the assignment section and their answers under the solution section\n\nFeel free to interrupt me with questions/comments at any time ✋.\n\nWe are all learning."
+  },
+  {
+    "objectID": "slides/index.html#about-the-lecturer",
+    "href": "slides/index.html#about-the-lecturer",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "About the Lecturer",
+    "text": "About the Lecturer\n\n\n\nStatistics Lecturer, Department of Pure and Applied Sciences at Kirinyaga University\nAuthor and Maintainer of several R Packages NovelDistns, rKenyaForex and AHSurv\nActive member of Africa R Consortium\n\n\n\nPeer Reviewer at Alexandria Engineering Journal and Journal of Probability and Statistics\nPassionate about Data Science and Machine Learning\nPublished over 25 publications in Peer Reviewed Journals"
+  },
+  {
+    "objectID": "slides/index.html#introductions",
+    "href": "slides/index.html#introductions",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Introductions",
+    "text": "Introductions\n\nYour Name\nYour Course\nYour Research Interests"
+  },
+  {
+    "objectID": "about.html#slides",
+    "href": "about.html#slides",
+    "title": "Lecture Slides",
+    "section": "Slides",
+    "text": "Slides\nLecture One Notes.",
+    "crumbs": [
+      "Lecture Slides"
+    ]
+  },
+  {
+    "objectID": "slides/01-intro.html",
+    "href": "slides/01-intro.html",
+    "title": "Research Methodology/Computational Methods",
+    "section": "",
+    "text": "Equip the learner with the skills necessary to carry out research for decision making and for solving practical management problems in a dynamic business world."
+  },
+  {
+    "objectID": "slides/01-intro.html#logistics",
+    "href": "slides/01-intro.html#logistics",
+    "title": "Research Methodology/Computational Methods",
+    "section": "Logistics",
+    "text": "Logistics\n\nMaterials\nsam-mutua.github.io/compmethods-resmethods\n\nExercises\nExercises will be posted under the assignment section and their answers under the solution section\n\nFeel free to interrupt me with questions/comments at any time ✋.\n\nWe are all learning."
+  },
+  {
+    "objectID": "slides/01-intro.html#about-the-lecturer",
+    "href": "slides/01-intro.html#about-the-lecturer",
+    "title": "Research Methodology/Computational Methods",
+    "section": "About the Lecturer",
+    "text": "About the Lecturer\n\n\n\nStatistics Lecturer, Department of Pure and Applied Sciences at Kirinyaga University\nAuthor and Maintainer of several R Packages NovelDistns, rKenyaForex and AHSurv\nActive member of Africa R Consortium\n\n\n\nPeer Reviewer at Alexandria Engineering Journal and Journal of Probability and Statistics\nPassionate about Data Science and Machine Learning\nPublished over 25 publications in Peer Reviewed Journals"
+  },
+  {
+    "objectID": "slides/01-intro.html#introductions",
+    "href": "slides/01-intro.html#introductions",
+    "title": "Research Methodology/Computational Methods",
+    "section": "Introductions",
+    "text": "Introductions\n\nYour Name\nYour Course\nYour Research Interests"
+  },
+  {
+    "objectID": "slides/index.html#groups",
+    "href": "slides/index.html#groups",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Groups",
+    "text": "Groups\n\nWe have the following groups in this semester:\n\n\nMSc. Statistics\nMSc. Data Science and Analytics\nPhD. Pure Mathematics\n\n\nFor the MSc. Students the unit name is SDS 3118: Research Methodology while for the PhD students the unit name is PUM 3106: Computational Methods"
+  },
+  {
+    "objectID": "slides/index.html#learning-objectives",
+    "href": "slides/index.html#learning-objectives",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\n\nAfter the end of the lesson, students should be able to:\n\nDefine research in general\nEnumerate the characteristics of research\nIdentify the different types of research\nDescribe the broad steps involved in research process\nExplain the roles of research in development"
+  },
+  {
+    "objectID": "slides/index.html#definition-of-research",
+    "href": "slides/index.html#definition-of-research",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Definition of Research",
+    "text": "Definition of Research\n\n\n\nDefinition 1\n\n\nResearch is the scientific and systematic search for pertinent information on a specific topic.\n\n\n\n\n\n\n\nDefinition 2\n\n\nResearch is scientific inquiry aimed at learning new facts, testing ideas etc.\n\n\n\n\n\n\n\nDefinition 3\n\n\nResearch is the systematic collection, analysis and interpretation of data to generate new knowledge and answer a certain question or solve a problem."
+  },
+  {
+    "objectID": "slides/index.html#objectives-of-research",
+    "href": "slides/index.html#objectives-of-research",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Objectives of Research",
+    "text": "Objectives of Research\n\nThe main aim of research is to find out the truth which is hidden and which has not been discovered as yet.\nGenerally the objectives of research can fall under the following:\n\n\nTo gain familiarity with a phenomenon or to achieve new insights into it.\nTo portray accurately the characteristics of a particular individual, situation or a group.\nTo determine the frequency with which something occurs or with which it is associated with something else.\nTo test a hypothesis of a causal relationship between variables."
+  },
+  {
+    "objectID": "slides/index.html#motivation-in-research",
+    "href": "slides/index.html#motivation-in-research",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Motivation in Research",
+    "text": "Motivation in Research\n\nThe possible motives for doing research may be either one or more of the following:\n\n\nDesire to get a research degree along with its benefits\nDesire to face the challenge in solving the unsolved problems.\nDesire to get intellectual joy of doing some creative work\nDesire to be of service to the society\nDesire to get respectability"
+  },
+  {
+    "objectID": "slides/index.html#characteristics-of-research",
+    "href": "slides/index.html#characteristics-of-research",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Characteristics of Research",
+    "text": "Characteristics of Research\n\nIt demands a clear statement of the problem\nIt requires a plan\nIt builds on existing data, using both positive and negative findings\nNew data should be collected as required and be organized in such a way that they answer the research questions."
+  },
+  {
+    "objectID": "slides/index.html#types-of-research",
+    "href": "slides/index.html#types-of-research",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Types of Research",
+    "text": "Types of Research\n\n\na. Descriptive Research\n\nThis includes surveys and fact-finding inquiries of different kinds.\nThe major purpose of descriptive research is description of the state of affairs as it exists in present.\n\nb. Analytical Research\n\nThe researcher has to use facts or information already available and analyze these to make a critical evaluation of the material.\n\n\nc. Applied Research\n\nThis aims at finding a solution for an immediate problem facing a society or an industry.\n\nd. Fundamental Research\n\nThis is mainly concerned with generalizations and with the formulations of theory.\n\ne. Quantitative Research\n\nThis is based on the measurement of quantity or amount.\n\n\nf. Qualitative Research\n\nThis is concerned with a qualitative phenomena. e.g Investigating reasons for human behaviour."
+  },
+  {
+    "objectID": "slides/index.html#introduction",
+    "href": "slides/index.html#introduction",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Introduction",
+    "text": "Introduction\n\n\n\nDefinition\n\n\nResearch Process consists of series of actions or steps necessary to effectively carry out research and the desired sequencing of these steps.\n\n\n\nThe steps in the research process are given below:\n\n\nSteps\n\nDefine the research problem\nReview the literature (Review concepts and theories, Review previous research finding)\nFormulate the hypothesis\nDesign Research\n\n\nSteps Cont’d\n\nCollect data\n\n\nAnalyze the data\nInterpret and report"
+  },
+  {
+    "objectID": "slides/index.html#formulating-research-problem",
+    "href": "slides/index.html#formulating-research-problem",
+    "title": "SDS 3118: Research Methodology",
+    "section": "Formulating Research Problem",
+    "text": "Formulating Research Problem\n\nAt the very onset the researcher must single out the problem he wants to study\nOne must decide the general area of interest or aspect of a subject matter that he would like to inquire into.\nEssentially there are two steps involved in the formulation of research problem:\n\nUnderstand the research problem thoroughly\nRephrase the same into meaningful terms from analytical point of view.\n\n\n\n\n\n\n\n\nImportant\n\n\nPrepare a list of broad areas of your research interest. At the end of this unit we will have the opportunity to present our concept notes before a panel."
+  },
+  {
+    "objectID": "slides/index.html#extensive-literature-survey",
+    "href": "slides/index.html#extensive-literature-survey",
+    "title": "SDS 3118: Research Methodology",
+    "section": "Extensive Literature Survey",
+    "text": "Extensive Literature Survey\n\nOnce the problem is stated a brief summary of it should be written down.\nIt is compulsory for a research worker writing a thesis for PhD or a project for MSc to write a concept note and present to a panel\nAcademic journals, conference proceedings, government reports, books must be tapped depending on the nature of the problem."
+  },
+  {
+    "objectID": "slides/index.html#development-of-working-hypothesis",
+    "href": "slides/index.html#development-of-working-hypothesis",
+    "title": "SDS 3118: Research Methodology",
+    "section": "Development of working hypothesis",
+    "text": "Development of working hypothesis\n\nAfter extensive literature review, researcher should state in clear terms the working hypothesis.\nWorking hypothesis is tentative assumption made in order to draw out and test its logical or empirical consequences."
+  },
+  {
+    "objectID": "slides/index.html#qualities-of-good-research",
+    "href": "slides/index.html#qualities-of-good-research",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Qualities of good research",
+    "text": "Qualities of good research\n\n\n\nGood research is systematic\n\n\nMeans that research is structured with specified steps to be taken in a specified sequence in accordance with well defined set of rules.\n\n\n\n\n\n\nGood research is logical\n\n\nResearch is guided by the rules of logical reasoning and logical process of induction and deduction are of great value in carrying out research.\n\n\n\n\n\n\nGood research is empirical\n\n\nIt implies that research is related basically to one or more aspects of a real situation and deals with concrete data that provides a basis for external validity to research results\n\n\n\n\n\n\nGood research is replicable\n\n\nThis characteristic allows research results to be verified by replicating the study and thereby building a sound basis for decisions."
+  },
+  {
+    "objectID": "slides/index.html#introduction-1",
+    "href": "slides/index.html#introduction-1",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Introduction",
+    "text": "Introduction\n\nIn research process, the first and foremost step happens to be that of selecting and properly defining a research problem\nA researcher must find the problem and formulate it so that it becomes susceptible to research.\nTo define a problem correctly, a researcher must know: What a problem is?"
+  },
+  {
+    "objectID": "slides/index.html#problem-identification",
+    "href": "slides/index.html#problem-identification",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Problem identification",
+    "text": "Problem identification\n\nWhether a problem requires research problem depends on three conditions:\n\n\nThere should be a perceived difference or discrepancy between what it is and what should be.\nThe reasons for this difference should be unclear\nThere should be more than one possible and plausible answer to the question."
+  },
+  {
+    "objectID": "slides/index.html#selecting-the-research-problem",
+    "href": "slides/index.html#selecting-the-research-problem",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Selecting the research problem",
+    "text": "Selecting the research problem\n\nThe following points should be observed by a researcher in selecting a research problem:\n\n\nSubject which is overdone should not be normally chosen.\nControversial subject should not become the choice of an average researcher.\nToo narrow or too vague problems should be avoided\nThe subject selected for research should be familiar and feasible"
+  },
+  {
+    "objectID": "slides/index.html#criteria-for-selecting-a-research-problem",
+    "href": "slides/index.html#criteria-for-selecting-a-research-problem",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Criteria for selecting a research problem",
+    "text": "Criteria for selecting a research problem\n\n\n\nRelevance\n\n\n\nThe topic you choose should be a priority problem.\nQuestions to be asked include:\n\nHow large or widespread is the problem?\nWho is affected?\nHow severe is the problem.\n\n\n\n\n\n\n\n\nAvoidance of duplication\n\n\n\nInvestigate whether the topic has been researcher."
+  },
+  {
+    "objectID": "slides/index.html#contd",
+    "href": "slides/index.html#contd",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Cont’d",
+    "text": "Cont’d\n\n\n\nFeasibility\n\n\n\nConsider the complexity of the problem and the resources you will require to carry out the study.\n\n\n\n\n\n\n\nApplicability of possible results and recommendations\n\n\n\nIs it likely that the recommendations from the study will be applied?"
+  },
+  {
+    "objectID": "slides/03-lecture-one.html",
+    "href": "slides/03-lecture-one.html",
+    "title": "Research Process",
+    "section": "",
+    "text": "Definition\n\n\n\nResearch Process consists of series of actions or steps necessary to effectively carry out research and the desired sequencing of these steps.\n\n\nThe steps in the research process are given below:\n\n\n\n\n\nDefine the research problem\nReview the literature (Review concepts and theories, Review previous research finding)\nFormulate the hypothesis\nDesign Research\n\n\n\n\n\n\nCollect data\n\n\nAnalyze the data\nInterpret and report\n\n\n\n\n\n\n\n\n\n\n\n\n\nGood research is systematic\n\n\n\nMeans that research is structured with specified steps to be taken in a specified sequence in accordance with well defined set of rules.\n\n\n\n\n\n\n\n\nGood research is logical\n\n\n\nResearch is guided by the rules of logical reasoning and logical process of induction and deduction are of great value in carrying out research.\n\n\n\n\n\n\n\n\nGood research is empirical\n\n\n\nIt implies that research is related basically to one or more aspects of a real situation and deals with concrete data that provides a basis for external validity to research results\n\n\n\n\n\n\n\n\nGood research is replicable\n\n\n\nThis characteristic allows research results to be verified by replicating the study and thereby building a sound basis for decisions."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#introduction",
+    "href": "slides/03-lecture-one.html#introduction",
+    "title": "Research Process",
+    "section": "",
+    "text": "Definition\n\n\n\nResearch Process consists of series of actions or steps necessary to effectively carry out research and the desired sequencing of these steps.\n\n\nThe steps in the research process are given below:\n\n\n\n\n\nDefine the research problem\nReview the literature (Review concepts and theories, Review previous research finding)\nFormulate the hypothesis\nDesign Research\n\n\n\n\n\n\nCollect data\n\n\nAnalyze the data\nInterpret and report"
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#qualities-of-good-research",
+    "href": "slides/03-lecture-one.html#qualities-of-good-research",
+    "title": "Research Process",
+    "section": "",
+    "text": "Good research is systematic\n\n\n\nMeans that research is structured with specified steps to be taken in a specified sequence in accordance with well defined set of rules.\n\n\n\n\n\n\n\n\nGood research is logical\n\n\n\nResearch is guided by the rules of logical reasoning and logical process of induction and deduction are of great value in carrying out research.\n\n\n\n\n\n\n\n\nGood research is empirical\n\n\n\nIt implies that research is related basically to one or more aspects of a real situation and deals with concrete data that provides a basis for external validity to research results\n\n\n\n\n\n\n\n\nGood research is replicable\n\n\n\nThis characteristic allows research results to be verified by replicating the study and thereby building a sound basis for decisions."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#introduction-1",
+    "href": "slides/03-lecture-one.html#introduction-1",
+    "title": "Research Process",
+    "section": "Introduction",
+    "text": "Introduction\n\nIn research process, the first and foremost step happens to be that of selecting and properly defining a research problem\nA researcher must find the problem and formulate it so that it becomes susceptible to research.\nTo define a problem correctly, a researcher must know: What a problem is?"
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#problem-identification",
+    "href": "slides/03-lecture-one.html#problem-identification",
+    "title": "Research Process",
+    "section": "Problem identification",
+    "text": "Problem identification\n\nWhether a problem requires research problem depends on three conditions:\n\n\nThere should be a perceived difference or discrepancy between what it is and what should be.\nThe reasons for this difference should be unclear\nThere should be more than one possible and plausible answer to the question."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#selecting-the-research-problem",
+    "href": "slides/03-lecture-one.html#selecting-the-research-problem",
+    "title": "Research Process",
+    "section": "Selecting the research problem",
+    "text": "Selecting the research problem\n\nThe following points should be observed by a researcher in selecting a research problem:\n\n\nSubject which is overdone should not be normally chosen.\nControversial subject should not become the choice of an average researcher.\nToo narrow or too vague problems should be avoided\nThe subject selected for research should be familiar and feasible"
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#criteria-for-selecting-a-research-problem",
+    "href": "slides/03-lecture-one.html#criteria-for-selecting-a-research-problem",
+    "title": "Research Process",
+    "section": "Criteria for selecting a research problem",
+    "text": "Criteria for selecting a research problem\n\n\n\n\n\n\nRelevance\n\n\n\n\nThe topic you choose should be a priority problem.\nQuestions to be asked include:\n\nHow large or widespread is the problem?\nWho is affected?\nHow severe is the problem.\n\n\n\n\n\n\n\n\n\n\nAvoidance of duplication\n\n\n\n\nInvestigate whether the topic has been researcher."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#contd",
+    "href": "slides/03-lecture-one.html#contd",
+    "title": "Research Process",
+    "section": "Cont’d",
+    "text": "Cont’d\n\n\n\n\n\n\nFeasibility\n\n\n\n\nConsider the complexity of the problem and the resources you will require to carry out the study.\n\n\n\n\n\n\n\n\n\nApplicability of possible results and recommendations\n\n\n\n\nIs it likely that the recommendations from the study will be applied?"
+  },
+  {
+    "objectID": "slides/02-lecture-one.html",
+    "href": "slides/02-lecture-one.html",
+    "title": "Introduction to Research",
+    "section": "",
+    "text": "After the end of the lesson, students should be able to:\n\nDefine research in general\nEnumerate the characteristics of research\nIdentify the different types of research\nDescribe the broad steps involved in research process\nExplain the roles of research in development\n\n\n\n\n\n\n\n\n\n\nDefinition 1\n\n\n\nResearch is the scientific and systematic search for pertinent information on a specific topic.\n\n\n\n\n\n\n\n\n\nDefinition 2\n\n\n\nResearch is scientific inquiry aimed at learning new facts, testing ideas etc.\n\n\n\n\n\n\n\n\n\nDefinition 3\n\n\n\nResearch is the systematic collection, analysis and interpretation of data to generate new knowledge and answer a certain question or solve a problem.\n\n\n\n\n\n\nThe main aim of research is to find out the truth which is hidden and which has not been discovered as yet.\nGenerally the objectives of research can fall under the following:\n\n\nTo gain familiarity with a phenomenon or to achieve new insights into it.\nTo portray accurately the characteristics of a particular individual, situation or a group.\nTo determine the frequency with which something occurs or with which it is associated with something else.\nTo test a hypothesis of a causal relationship between variables.\n\n\n\n\n\nThe possible motives for doing research may be either one or more of the following:\n\n\nDesire to get a research degree along with its benefits\nDesire to face the challenge in solving the unsolved problems.\nDesire to get intellectual joy of doing some creative work\nDesire to be of service to the society\nDesire to get respectability\n\n\n\n\n\nIt demands a clear statement of the problem\nIt requires a plan\nIt builds on existing data, using both positive and negative findings\nNew data should be collected as required and be organized in such a way that they answer the research questions.\n\n\n\n\n\n\n\n\n\nThis includes surveys and fact-finding inquiries of different kinds.\nThe major purpose of descriptive research is description of the state of affairs as it exists in present.\n\n\n\n\n\nThe researcher has to use facts or information already available and analyze these to make a critical evaluation of the material.\n\n\n\n\n\n\nThis aims at finding a solution for an immediate problem facing a society or an industry.\n\n\n\n\n\nThis is mainly concerned with generalizations and with the formulations of theory.\n\n\n\n\n\nThis is based on the measurement of quantity or amount.\n\n\n\n\n\n\nThis is concerned with a qualitative phenomena. e.g Investigating reasons for human behaviour."
+  },
+  {
+    "objectID": "slides/02-lecture-one.html#learning-objectives",
+    "href": "slides/02-lecture-one.html#learning-objectives",
+    "title": "Introduction to Research",
+    "section": "",
+    "text": "After the end of the lesson, students should be able to:\n\nDefine research in general\nEnumerate the characteristics of research\nIdentify the different types of research\nDescribe the broad steps involved in research process\nExplain the roles of research in development"
+  },
+  {
+    "objectID": "slides/02-lecture-one.html#definition-of-research",
+    "href": "slides/02-lecture-one.html#definition-of-research",
+    "title": "Introduction to Research",
+    "section": "",
+    "text": "Definition 1\n\n\n\nResearch is the scientific and systematic search for pertinent information on a specific topic.\n\n\n\n\n\n\n\n\n\nDefinition 2\n\n\n\nResearch is scientific inquiry aimed at learning new facts, testing ideas etc.\n\n\n\n\n\n\n\n\n\nDefinition 3\n\n\n\nResearch is the systematic collection, analysis and interpretation of data to generate new knowledge and answer a certain question or solve a problem."
+  },
+  {
+    "objectID": "slides/02-lecture-one.html#objectives-of-research",
+    "href": "slides/02-lecture-one.html#objectives-of-research",
+    "title": "Introduction to Research",
+    "section": "",
+    "text": "The main aim of research is to find out the truth which is hidden and which has not been discovered as yet.\nGenerally the objectives of research can fall under the following:\n\n\nTo gain familiarity with a phenomenon or to achieve new insights into it.\nTo portray accurately the characteristics of a particular individual, situation or a group.\nTo determine the frequency with which something occurs or with which it is associated with something else.\nTo test a hypothesis of a causal relationship between variables."
+  },
+  {
+    "objectID": "slides/02-lecture-one.html#motivation-in-research",
+    "href": "slides/02-lecture-one.html#motivation-in-research",
+    "title": "Introduction to Research",
+    "section": "",
+    "text": "The possible motives for doing research may be either one or more of the following:\n\n\nDesire to get a research degree along with its benefits\nDesire to face the challenge in solving the unsolved problems.\nDesire to get intellectual joy of doing some creative work\nDesire to be of service to the society\nDesire to get respectability"
+  },
+  {
+    "objectID": "slides/02-lecture-one.html#characteristics-of-research",
+    "href": "slides/02-lecture-one.html#characteristics-of-research",
+    "title": "Introduction to Research",
+    "section": "",
+    "text": "It demands a clear statement of the problem\nIt requires a plan\nIt builds on existing data, using both positive and negative findings\nNew data should be collected as required and be organized in such a way that they answer the research questions."
+  },
+  {
+    "objectID": "slides/02-lecture-one.html#types-of-research",
+    "href": "slides/02-lecture-one.html#types-of-research",
+    "title": "Introduction to Research",
+    "section": "",
+    "text": "This includes surveys and fact-finding inquiries of different kinds.\nThe major purpose of descriptive research is description of the state of affairs as it exists in present.\n\n\n\n\n\nThe researcher has to use facts or information already available and analyze these to make a critical evaluation of the material.\n\n\n\n\n\n\nThis aims at finding a solution for an immediate problem facing a society or an industry.\n\n\n\n\n\nThis is mainly concerned with generalizations and with the formulations of theory.\n\n\n\n\n\nThis is based on the measurement of quantity or amount.\n\n\n\n\n\n\nThis is concerned with a qualitative phenomena. e.g Investigating reasons for human behaviour."
+  },
+  {
+    "objectID": "slides/01-intro.html#groups",
+    "href": "slides/01-intro.html#groups",
+    "title": "Research Methodology/Computational Methods",
+    "section": "Groups",
+    "text": "Groups\n\nWe have the following groups in this semester:\n\n\nMSc. Statistics\nMSc. Data Science and Analytics\nPhD. Pure Mathematics\n\n\nFor the MSc. Students the unit name is SDS 3118: Research Methodology while for the PhD students the unit name is PUM 3106: Computational Methods"
+  },
+  {
+    "objectID": "slides/index.html#introduction-2",
+    "href": "slides/index.html#introduction-2",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Introduction",
+    "text": "Introduction\n\n\n\nDefinition\n\n\nA research design is the arrangement of conditions for collection and analysis of data in a manner that aims to combine relevance to the research purpose with economy in procedure.\n\n\n\nOne may split the overall research design into the following parts:\n\nThe sampling design: which deals with the method of selecting items to be observed for the given study\nThe observational design which relates to the conditions under which the observations are to be made\nThe statistical design which concerns with the question of how many items are to observed and how the information and data gathered are to be analysed\nThe operational design which deals with the techniques by which the procedures specified in the sampling, statistical and observational designs can be carried out."
+  },
+  {
+    "objectID": "slides/index.html#features-of-a-good-research-design",
+    "href": "slides/index.html#features-of-a-good-research-design",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Features of a Good Research Design",
+    "text": "Features of a Good Research Design\n\nA good design is often characterized by adjectives like flexible,appropriate,efficient, economical etc\nGenerally the design which minimizes bias and maximizes the reliability of the data collected and analyzed is considered a good design.\nThe design which gives the smallest experimental error is supposed to be the best design in many investigations.\nA design which yields maximal information and provides an opportunity for considering many different aspects of a problem is considered most appropriate and efficient design in respect of many research problems"
+  },
+  {
+    "objectID": "slides/index.html#contd-1",
+    "href": "slides/index.html#contd-1",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nA research design appropriate for a particular research problem, usually involves the following considerations:\n\nThe means of obtaining the information\nThe availability and skills of the researcher and his/her staff\nThe objective of the problem to be studied\nThe availability of time and money for the research work"
+  },
+  {
+    "objectID": "slides/index.html#concepts-relating-to-research-design",
+    "href": "slides/index.html#concepts-relating-to-research-design",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Concepts Relating to Research Design",
+    "text": "Concepts Relating to Research Design\n\nDependent and independent variables\n\n\nIf one variable depends upon or is a consequence of the other variable it is termed as dependent variable and the variable that is antecedent to the dependent variable is called independent variable\n\n\nExtraneous Variable\n\n\nIndependent variables that are not related to the purpose of the study but may affect the dependent variable are termed as extraneous variable"
+  },
+  {
+    "objectID": "slides/index.html#contd-2",
+    "href": "slides/index.html#contd-2",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nControl\n\n\nThe term control is used when we design the study minimizing the effects of extraneous independent variables.\n\n\nConfounded Relationship\n\n\nWhen the dependent variable is not free from the influence of extraneous variable(s), the relationship between the dependent and independent variables is said to be confounded by an extraneous variable(s)."
+  },
+  {
+    "objectID": "slides/index.html#contd-3",
+    "href": "slides/index.html#contd-3",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nResearch Hypothesis\n\n\nThe research hypothesis is a predictive statement that relates an independent variable to a dependent variable.\n\n\nExperimental and non-experimental hypothesis-testing approach\n\n\nWhen the purpose of research is to test a research hypothesis, it is termed as hypothesis-testing research.\nResearch in which the independent variable is manipulated is termed ‘experimental hypothesis-testing research’ and a research in which an independent variable is not manipulated is called ‘non-experimental hypothesis-testing research’."
+  },
+  {
+    "objectID": "slides/index.html#contd-4",
+    "href": "slides/index.html#contd-4",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nExperimental and Control Group\n\n\nIn an experimental hypothesis-testing research when a group is exposed to usual conditions, it is termed a ‘control group’, but when the group is exposed to some novel or special condition, it is termed an ‘experimental group’.\n\n\nTreatment\n\n\nThe different conditions under which experimental and control groups are put are usually referred to as ‘treatments’."
+  },
+  {
+    "objectID": "slides/index.html#contd-5",
+    "href": "slides/index.html#contd-5",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nExperiment\n\n\nThe process of examining the truth of a statistical hypothesis, relating to some research problem, is known as an experiment\n\n\nExperimental Units\n\n\nThe pre-determined plots or the blocks, where different treatments are used, are known as experimental units."
+  },
+  {
+    "objectID": "slides/index.html#introduction-3",
+    "href": "slides/index.html#introduction-3",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Introduction",
+    "text": "Introduction\n\nDifferent research designs can be conveniently described if we categorize them as:\n\nResearch design in case of exploratory research studies\nResearch design in case of descriptive and diagnostic research studies\nResearch design in case of hypothesis-testing research studies"
+  },
+  {
+    "objectID": "slides/index.html#research-design-in-case-of-exploratory-research-studies",
+    "href": "slides/index.html#research-design-in-case-of-exploratory-research-studies",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Research Design in case of Exploratory Research Studies",
+    "text": "Research Design in case of Exploratory Research Studies\n\nExploratory research studies are also termed as formulative research studies.\nThe main purpose of such studies is that of formulating a problem for more precise investigation or of developing the working hypothesis from an operational point of view.\nThe major emphasis in such studies is on the discovery of ideas and insights.\nGenerally the following three methods in the context of research design for such design are talked about:\n\nThe survey of concerning literature\nThe experience survey\nThe analysis of insight-stimulating examples"
+  },
+  {
+    "objectID": "slides/index.html#research-design-in-case-of-descriptive-and-diagnostic-research-studies",
+    "href": "slides/index.html#research-design-in-case-of-descriptive-and-diagnostic-research-studies",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Research design in case of descriptive and diagnostic research studies",
+    "text": "Research design in case of descriptive and diagnostic research studies\n\nDescriptive research studies are those studies which are concerned with describing the characteristics of a particular individual, or of a group, whereas diagnostic research studies determine the frequency with which something occurs or its association with something else.\nThe studies concerning whether certain variables are associated are examples of diagnostic research studies."
+  },
+  {
+    "objectID": "slides/index.html#research-design-in-case-of-hypothesis-testing-research-design",
+    "href": "slides/index.html#research-design-in-case-of-hypothesis-testing-research-design",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Research design in case of hypothesis-testing research design",
+    "text": "Research design in case of hypothesis-testing research design\n\nHypothesis-testing research studies (generally known as experimental studies) are those where the researcher tests the hypotheses of causal relationships between variables."
+  },
+  {
+    "objectID": "slides/index.html#introduction-4",
+    "href": "slides/index.html#introduction-4",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Introduction",
+    "text": "Introduction\n\nThe task of data collection begins after a research problem has been defined and research design/plan chalked out.\nWhile deciding about the method of data collection to be used for the study, the researcher should keep in mind two types of data:\n\nPrimary data - Are those that are collected afresh and for the first time and thus happen to be original in character.\nSecondary data - Are those which have already been collected by someone else and which have already been passed through the statistical process."
+  },
+  {
+    "objectID": "slides/index.html#introduction-5",
+    "href": "slides/index.html#introduction-5",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Introduction",
+    "text": "Introduction\n\nThere are several methods of collecting primary data which include:\n\nObservation Method\nInterview Method\nThrough questionnaires\nThrough schedules"
+  },
+  {
+    "objectID": "slides/index.html#contd-6",
+    "href": "slides/index.html#contd-6",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Cont’d",
+    "text": "Cont’d\n\n\n\nDisadvantages\n\n\n\nIt is an expensive method\nThe information provided by this method is very limited\nUnforeseen factors may interfere with the observational task"
+  },
+  {
+    "objectID": "slides/index.html#advantages-of-telephone-interviews",
+    "href": "slides/index.html#advantages-of-telephone-interviews",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Advantages of Telephone Interviews",
+    "text": "Advantages of Telephone Interviews\n\nIt is more flexible in comparison to mailing method.\nIt is faster than other methods i.e., a quick way of obtaining information.\nIt is cheaper than personal interviewing method; here the cost per response is relatively low.\nRecall is easy; callbacks are simple and economical.\nThere is a higher rate of response than what we have in mailing method; the non-response is generally very low.\nReplies can be recorded without causing embarrassment to respondents.\nInterviewer can explain requirements more easily."
+  },
+  {
+    "objectID": "slides/index.html#disadvantages-of-telephone-interviews",
+    "href": "slides/index.html#disadvantages-of-telephone-interviews",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Disadvantages of Telephone Interviews",
+    "text": "Disadvantages of Telephone Interviews\n\nLittle time is given to respondents for considered answers;\nSurveys are restricted to respondents who have telephone facilities.\nExtensive geographical coverage may get restricted by cost considerations.\nIt is not suitable for intensive surveys where comprehensive answers are required to various questions.\nPossibility of the bias of the interviewer is relatively more.\nQuestions have to be short and to the point; probes are difficult to handle."
+  },
+  {
+    "objectID": "slides/index.html#advantages-of-questionnaires",
+    "href": "slides/index.html#advantages-of-questionnaires",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Advantages of Questionnaires",
+    "text": "Advantages of Questionnaires\n\nThere is low cost even when the universe is large and is widely spread geographically.\nIt is free from the bias of the interviewer; answers are in respondents’ own words.\nRespondents have adequate time to give well thought out answers.\nRespondents, who are not easily approachable, can also be reached conveniently.\nLarge samples can be made use of and thus the results can be made more dependable and reliable."
+  },
+  {
+    "objectID": "slides/index.html#disadvantages-of-questionnaires",
+    "href": "slides/index.html#disadvantages-of-questionnaires",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Disadvantages of Questionnaires",
+    "text": "Disadvantages of Questionnaires\n\nLow rate of return of the duly filled in questionnaires; bias due to no-response is often indeterminate.\nIt can be used only when respondents are educated and cooperating.\nThe control over questionnaire may be lost once it is sent.\nIt is difficult to know whether willing respondents are truly representative.\nThis method is likely to be the slowest of all.\n\n\n\n\n\nDr. Mutua Kilai, PhD"
+  },
+  {
+    "objectID": "slides/index.html#introduction-6",
+    "href": "slides/index.html#introduction-6",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Introduction",
+    "text": "Introduction\n\n\n\nOptions\n\n\n\nWe will discuss how to code a questionnaire in Open Data Kit (ODK) and KoboCollect.\nThis is key for data collection exercises"
+  },
+  {
+    "objectID": "slides/index.html#collecting-data-through-questionnaire",
+    "href": "slides/index.html#collecting-data-through-questionnaire",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Collecting Data Through Questionnaire",
+    "text": "Collecting Data Through Questionnaire\n\n\n\nDefinition\n\n\n\nThis method of data collection is quite popular, particularly in case of big enquiries.\nIt is being adopted by private individuals, research workers, private and public organisations and even by governments."
+  },
+  {
+    "objectID": "slides/index.html#form-programming",
+    "href": "slides/index.html#form-programming",
+    "title": "SDS 3118: Research Methodology  PUM 4106: Computational Methods",
+    "section": "Form Programming",
+    "text": "Form Programming\n\nTo set up tools in KoboToolBox type www.kobotoolbox\n\n\n\n\n\n\nDr. Mutua Kilai, PhD"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#introduction",
+    "href": "slides/CAPI_LECTURE.html#introduction",
+    "title": "Coding a Questionnaire ",
+    "section": "Introduction",
+    "text": "Introduction\n\nThere are seven steps in the design of the questionnaire.\n\n\n\n\nStep 1: Decide what information is required\n\n\n\nThe researcher refers to the proposal and brief and make a listing of all the objectives and what information is required in order that they are achieved.\n\n\n\n\n\n\n\nStep 2: Make a rough listing of the questions\n\n\n\nA list is now made of all the questions that could go into the questionnaire.\nThe aim at this stage is to be as comprehensive as possible in the listing and not to worry about the phrasing of the questions."
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#form-programming",
+    "href": "slides/CAPI_LECTURE.html#form-programming",
+    "title": "Coding a Questionnaire ",
+    "section": "Form Programming",
+    "text": "Form Programming\n\nTo set up tools in KoboToolBox type www.kobotoolbox\nCreate an account: Remember the password and the username of your account."
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#introduction-1",
+    "href": "slides/CAPI_LECTURE.html#introduction-1",
+    "title": "Coding a Questionnaire ",
+    "section": "Introduction",
+    "text": "Introduction\n\n\n\nOptions\n\n\n\nWe will discuss how to code a questionnaire in Open Data Kit (ODK) and KoboCollect.\nThis is key for data collection exercises"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#contd",
+    "href": "slides/CAPI_LECTURE.html#contd",
+    "title": "Coding a Questionnaire ",
+    "section": "Cont’d",
+    "text": "Cont’d\n\n\n\nStep 3: Refine the Question Phrasing\n\n\n\nThe questions must now be developed close to the point where they make sense and will generate the right answers.\n\n\n\n\n\n\n\n\nStep 4: Develop the Response Format\n\n\n\nEvery question needs a response. This could be a pre-coded list of answers or it could be open ended to collect verbatim comments.\nConsideration of the responses is just as important as getting the questions right."
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#contd-1",
+    "href": "slides/CAPI_LECTURE.html#contd-1",
+    "title": "Coding a Questionnaire ",
+    "section": "Cont’d",
+    "text": "Cont’d\n\n\n\nStep 5: Put the questions into an appropriate sequence\n\n\n\nThe ordering of the questions is important as it brings logic and flow to the interview.\nNormally the respondent is eased into the task with relatively straightforward questions while the more difficult or sensitive ones are left until they are warmed up\n\n\n\n\n\n\n\nStep 6: Finalise the layout of the questionnaire\n\n\n\nThe questionnaire now needs to be fully formatted with clear instructions to the interviewer, including a powerful introduction, routings and probes.\n\n\n\n\n\n\n\nStep 7: Pretest and revise\n\n\n\nThe final step is to pre-test the questionnaire."
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#designing-effective-questionnaires",
+    "href": "slides/CAPI_LECTURE.html#designing-effective-questionnaires",
+    "title": "Coding a Questionnaire ",
+    "section": "Designing Effective Questionnaires",
+    "text": "Designing Effective Questionnaires\n\nThere are five people to take into consideration when designing a questionnaire:\n\nClient - the client wants answers to their particular questions.\nResearcher - the researcher needs to uncover information and balance the needs of three groups of people\nInterviewer - the interviewer wants a questionnaire which is easy to follow and which can be completed in the time specified by the researcher.\nRespondent - respondents generally want to enjoy the interview experience.\nData Processor - the data processor wants a questionnaire which will result in data which can be processed efficiently and with minimum error"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#sections-of-a-questionnaire",
+    "href": "slides/CAPI_LECTURE.html#sections-of-a-questionnaire",
+    "title": "Coding a Questionnaire ",
+    "section": "Sections of a Questionnaire",
+    "text": "Sections of a Questionnaire\n\nThe respondent’s identification data - such as their name,address, date of the interview, name of the interviewer.\nAn Introduction - It is normally scripted and lays out the credentials of the market research company, the purpose of the study and any aspects of confidentiality.\nInstructions - the interviewer and the respondent need to know how to move through the questionnaire such as which questions to skip and where to move to if certain answers are given.\nInformation - this is the main body of the document and is made up of the many questions and response codes.\nClassification data - establish the important characteristics of the respondent, particularly related to their demographics."
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#things-to-think-about-in-effective-questionnaire-design",
+    "href": "slides/CAPI_LECTURE.html#things-to-think-about-in-effective-questionnaire-design",
+    "title": "Coding a Questionnaire ",
+    "section": "10 things to think about in effective questionnaire design",
+    "text": "10 things to think about in effective questionnaire design\n\nThink about the objectives of the survey\nThink about how the interview will be carried out\nThink about the introduction to the questionnaire\nThink about the formatting\nThink about the questions from the respondents point of view\nThink about the possible answers at the same time as thinking about the questions:"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#contd-2",
+    "href": "slides/CAPI_LECTURE.html#contd-2",
+    "title": "Coding a Questionnaire ",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nThink about the order of the questions\nThink about the types of questions\nThink about how the data will be processed\nThink about interviewer instructions\n\n\n\n\n\n\n\nImportant\n\n\nThe best questionnaires are constantly edited and refined until finally they have clear questions and instructions, laid out in a logical order."
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#note",
+    "href": "slides/CAPI_LECTURE.html#note",
+    "title": "Coding a Questionnaire ",
+    "section": "Note",
+    "text": "Note\n\nTo write a good question you need to make sure that the respondents:\n\nCan understand the question\nAre willing to answer the question\nAre able to answer the question"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#when-formulating-individual-questions",
+    "href": "slides/CAPI_LECTURE.html#when-formulating-individual-questions",
+    "title": "Coding a Questionnaire ",
+    "section": "When Formulating individual questions:",
+    "text": "When Formulating individual questions:\n\nEnsure that the questions are without bias\nMake the questions as simple as possible\nMake the questions very specific\nAvoid jargon or shorthand\nSteer clear of sophisticated or uncommon words\nAvoid ambiguous words\nAvoid questions with negative in them\nAvoid hypothetical questions"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#example-of-a-questionnaire",
+    "href": "slides/CAPI_LECTURE.html#example-of-a-questionnaire",
+    "title": "Coding a Questionnaire ",
+    "section": "Example of a Questionnaire",
+    "text": "Example of a Questionnaire\n\n\nExample\n\n\nTypes of Questions\n\nOpen Ended: No choices are given like the question on occupation\nClosed Ended: Choices are given like question on age of the respondent"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#example",
+    "href": "slides/CAPI_LECTURE.html#example",
+    "title": "Coding a Questionnaire ",
+    "section": "Example",
+    "text": "Example"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#types-of-questions",
+    "href": "slides/CAPI_LECTURE.html#types-of-questions",
+    "title": "Coding a Questionnaire ",
+    "section": "Types of Questions",
+    "text": "Types of Questions\n\nOpen Ended: No choices are given like the question on occupation\nClosed Ended: Choices are given like question on age of the respondent"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#creating-an-account",
+    "href": "slides/CAPI_LECTURE.html#creating-an-account",
+    "title": "Coding a Questionnaire ",
+    "section": "Creating an Account",
+    "text": "Creating an Account"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#account-appearance",
+    "href": "slides/CAPI_LECTURE.html#account-appearance",
+    "title": "Coding a Questionnaire ",
+    "section": "Account Appearance",
+    "text": "Account Appearance\n\n\nThere are no Projects since we have not created any project that we intend to collect data on.\nNo deployed questionnaires since we have not developed any questionnaire."
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#install-kobocollect-app-on-mobile",
+    "href": "slides/CAPI_LECTURE.html#install-kobocollect-app-on-mobile",
+    "title": "Coding a Questionnaire ",
+    "section": "Install KoboCollect App on Mobile",
+    "text": "Install KoboCollect App on Mobile\n\nIt is necessary to install the KoboCollect App on ANDROID OS MOBILE DEVICE and configure it for collecting data"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#configuring-the-app-on-mobile",
+    "href": "slides/CAPI_LECTURE.html#configuring-the-app-on-mobile",
+    "title": "Coding a Questionnaire ",
+    "section": "Configuring the App on Mobile",
+    "text": "Configuring the App on Mobile\n\n\n\nClick on New under the account appearance\n\n\n\nSelect Build from scratch and enter the details as shown\n\n\n\n\nWe are ready now to configure the app on our phones"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#contd-3",
+    "href": "slides/CAPI_LECTURE.html#contd-3",
+    "title": "Coding a Questionnaire ",
+    "section": "Cont’d",
+    "text": "Cont’d\n\n\n\nWe select Manually enter project details\n\n\n\n\nIf you created your user account on the global server the URL is https://kc.kobotoolbox.org\nInsert the username you created while creating the account\nInsert the password you created while creating the account on the server"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#contd-4",
+    "href": "slides/CAPI_LECTURE.html#contd-4",
+    "title": "Coding a Questionnaire ",
+    "section": "Cont’d",
+    "text": "Cont’d\n\n\n\nWe select Manually enter project details and click add\n\n\n\n\nAfter clicking Add you will get the following screen"
+  },
+  {
+    "objectID": "slides/CAPI_LECTURE.html#setting-up-blank-forms-in-kobocollect",
+    "href": "slides/CAPI_LECTURE.html#setting-up-blank-forms-in-kobocollect",
+    "title": "Coding a Questionnaire ",
+    "section": "Setting up Blank Forms in KoboCollect",
+    "text": "Setting up Blank Forms in KoboCollect\n\nOnce you have configured the URL,Username and Password in the app correctly, you can send blank forms to your device from the KoboToolbox server\n\nOpen KoboCollect\nMake sure that you have at least one project set up in your KoboToolbox user account and that your device is connected to the internet\nSelect Download Form from the home menu\n\n\n\n\n\n\n\n\nWarning\n\n\nWe have not created any questionnaire so you expect the message Nothing to Display at this stage.\n\n\n\n\n\n\n\nDr. Mutua Kilai, PhD"
+  },
+  {
+    "objectID": "slides/CAPI.html",
+    "href": "slides/CAPI.html",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "",
+    "text": "There are seven steps in the design of the questionnaire.\n\n\n\n\n\n\n\nStep 1: Decide what information is required\n\n\n\n\nThe researcher refers to the proposal and brief and make a listing of all the objectives and what information is required in order that they are achieved.\n\n\n\n\n\n\n\n\n\nStep 2: Make a rough listing of the questions\n\n\n\n\nA list is now made of all the questions that could go into the questionnaire.\nThe aim at this stage is to be as comprehensive as possible in the listing and not to worry about the phrasing of the questions.\n\n\n\n\n\n\n\n\n\n\n\n\nStep 3: Refine the Question Phrasing\n\n\n\n\nThe questions must now be developed close to the point where they make sense and will generate the right answers.\n\n\n\n\n\n\n\n\n\n\nStep 4: Develop the Response Format\n\n\n\n\nEvery question needs a response. This could be a pre-coded list of answers or it could be open ended to collect verbatim comments.\nConsideration of the responses is just as important as getting the questions right.\n\n\n\n\n\n\n\n\n\n\n\n\nStep 5: Put the questions into an appropriate sequence\n\n\n\n\nThe ordering of the questions is important as it brings logic and flow to the interview.\nNormally the respondent is eased into the task with relatively straightforward questions while the more difficult or sensitive ones are left until they are warmed up\n\n\n\n\n\n\n\n\n\nStep 6: Finalise the layout of the questionnaire\n\n\n\n\nThe questionnaire now needs to be fully formatted with clear instructions to the interviewer, including a powerful introduction, routings and probes.\n\n\n\n\n\n\n\n\n\nStep 7: Pretest and revise\n\n\n\n\nThe final step is to pre-test the questionnaire.\n\n\n\n\n\n\n\nThere are five people to take into consideration when designing a questionnaire:\n\nClient - the client wants answers to their particular questions.\nResearcher - the researcher needs to uncover information and balance the needs of three groups of people\nInterviewer - the interviewer wants a questionnaire which is easy to follow and which can be completed in the time specified by the researcher.\nRespondent - respondents generally want to enjoy the interview experience.\nData Processor - the data processor wants a questionnaire which will result in data which can be processed efficiently and with minimum error\n\n\n\n\n\n\nThe respondent’s identification data - such as their name,address, date of the interview, name of the interviewer.\nAn Introduction - It is normally scripted and lays out the credentials of the market research company, the purpose of the study and any aspects of confidentiality.\nInstructions - the interviewer and the respondent need to know how to move through the questionnaire such as which questions to skip and where to move to if certain answers are given.\nInformation - this is the main body of the document and is made up of the many questions and response codes.\nClassification data - establish the important characteristics of the respondent, particularly related to their demographics.\n\n\n\n\n\nThink about the objectives of the survey\nThink about how the interview will be carried out\nThink about the introduction to the questionnaire\nThink about the formatting\nThink about the questions from the respondents point of view\nThink about the possible answers at the same time as thinking about the questions:\n\n\n\n\n\nThink about the order of the questions\nThink about the types of questions\nThink about how the data will be processed\nThink about interviewer instructions\n\n\n\n\n\n\n\nImportant\n\n\n\nThe best questionnaires are constantly edited and refined until finally they have clear questions and instructions, laid out in a logical order.\n\n\n\n\n\n\nTo write a good question you need to make sure that the respondents:\n\nCan understand the question\nAre willing to answer the question\nAre able to answer the question\n\n\n\n\n\n\nEnsure that the questions are without bias\nMake the questions as simple as possible\nMake the questions very specific\nAvoid jargon or shorthand\nSteer clear of sophisticated or uncommon words\nAvoid ambiguous words\nAvoid questions with negative in them\nAvoid hypothetical questions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOpen Ended: No choices are given like the question on occupation\nClosed Ended: Choices are given like question on age of the respondent"
+  },
+  {
+    "objectID": "slides/CAPI.html#introduction",
+    "href": "slides/CAPI.html#introduction",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "",
+    "text": "There are seven steps in the design of the questionnaire.\n\n\n\n\n\n\n\nStep 1: Decide what information is required\n\n\n\n\nThe researcher refers to the proposal and brief and make a listing of all the objectives and what information is required in order that they are achieved.\n\n\n\n\n\n\n\n\n\nStep 2: Make a rough listing of the questions\n\n\n\n\nA list is now made of all the questions that could go into the questionnaire.\nThe aim at this stage is to be as comprehensive as possible in the listing and not to worry about the phrasing of the questions."
+  },
+  {
+    "objectID": "slides/CAPI.html#contd",
+    "href": "slides/CAPI.html#contd",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "",
+    "text": "Step 3: Refine the Question Phrasing\n\n\n\n\nThe questions must now be developed close to the point where they make sense and will generate the right answers.\n\n\n\n\n\n\n\n\n\n\nStep 4: Develop the Response Format\n\n\n\n\nEvery question needs a response. This could be a pre-coded list of answers or it could be open ended to collect verbatim comments.\nConsideration of the responses is just as important as getting the questions right."
+  },
+  {
+    "objectID": "slides/CAPI.html#contd-1",
+    "href": "slides/CAPI.html#contd-1",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "",
+    "text": "Step 5: Put the questions into an appropriate sequence\n\n\n\n\nThe ordering of the questions is important as it brings logic and flow to the interview.\nNormally the respondent is eased into the task with relatively straightforward questions while the more difficult or sensitive ones are left until they are warmed up\n\n\n\n\n\n\n\n\n\nStep 6: Finalise the layout of the questionnaire\n\n\n\n\nThe questionnaire now needs to be fully formatted with clear instructions to the interviewer, including a powerful introduction, routings and probes.\n\n\n\n\n\n\n\n\n\nStep 7: Pretest and revise\n\n\n\n\nThe final step is to pre-test the questionnaire."
+  },
+  {
+    "objectID": "slides/CAPI.html#designing-effective-questionnaires",
+    "href": "slides/CAPI.html#designing-effective-questionnaires",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "",
+    "text": "There are five people to take into consideration when designing a questionnaire:\n\nClient - the client wants answers to their particular questions.\nResearcher - the researcher needs to uncover information and balance the needs of three groups of people\nInterviewer - the interviewer wants a questionnaire which is easy to follow and which can be completed in the time specified by the researcher.\nRespondent - respondents generally want to enjoy the interview experience.\nData Processor - the data processor wants a questionnaire which will result in data which can be processed efficiently and with minimum error"
+  },
+  {
+    "objectID": "slides/CAPI.html#sections-of-a-questionnaire",
+    "href": "slides/CAPI.html#sections-of-a-questionnaire",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "",
+    "text": "The respondent’s identification data - such as their name,address, date of the interview, name of the interviewer.\nAn Introduction - It is normally scripted and lays out the credentials of the market research company, the purpose of the study and any aspects of confidentiality.\nInstructions - the interviewer and the respondent need to know how to move through the questionnaire such as which questions to skip and where to move to if certain answers are given.\nInformation - this is the main body of the document and is made up of the many questions and response codes.\nClassification data - establish the important characteristics of the respondent, particularly related to their demographics."
+  },
+  {
+    "objectID": "slides/CAPI.html#things-to-think-about-in-effective-questionnaire-design",
+    "href": "slides/CAPI.html#things-to-think-about-in-effective-questionnaire-design",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "",
+    "text": "Think about the objectives of the survey\nThink about how the interview will be carried out\nThink about the introduction to the questionnaire\nThink about the formatting\nThink about the questions from the respondents point of view\nThink about the possible answers at the same time as thinking about the questions:"
+  },
+  {
+    "objectID": "slides/CAPI.html#contd-2",
+    "href": "slides/CAPI.html#contd-2",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "",
+    "text": "Think about the order of the questions\nThink about the types of questions\nThink about how the data will be processed\nThink about interviewer instructions\n\n\n\n\n\n\n\nImportant\n\n\n\nThe best questionnaires are constantly edited and refined until finally they have clear questions and instructions, laid out in a logical order."
+  },
+  {
+    "objectID": "slides/CAPI.html#note",
+    "href": "slides/CAPI.html#note",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "",
+    "text": "To write a good question you need to make sure that the respondents:\n\nCan understand the question\nAre willing to answer the question\nAre able to answer the question"
+  },
+  {
+    "objectID": "slides/CAPI.html#when-formulating-individual-questions",
+    "href": "slides/CAPI.html#when-formulating-individual-questions",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "",
+    "text": "Ensure that the questions are without bias\nMake the questions as simple as possible\nMake the questions very specific\nAvoid jargon or shorthand\nSteer clear of sophisticated or uncommon words\nAvoid ambiguous words\nAvoid questions with negative in them\nAvoid hypothetical questions"
+  },
+  {
+    "objectID": "slides/CAPI.html#example-of-a-questionnaire",
+    "href": "slides/CAPI.html#example-of-a-questionnaire",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "",
+    "text": "Open Ended: No choices are given like the question on occupation\nClosed Ended: Choices are given like question on age of the respondent"
+  },
+  {
+    "objectID": "slides/CAPI.html#introduction-1",
+    "href": "slides/CAPI.html#introduction-1",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "Introduction",
+    "text": "Introduction\n\n\n\n\n\n\nOptions\n\n\n\n\nWe will discuss how to code a questionnaire in Open Data Kit (ODK) and KoboCollect.\nThis is key for data collection exercises"
+  },
+  {
+    "objectID": "slides/CAPI.html#form-programming",
+    "href": "slides/CAPI.html#form-programming",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "Form Programming",
+    "text": "Form Programming\n\nTo set up tools in KoboToolBox type www.kobotoolbox\nCreate an account: Remember the password and the username of your account."
+  },
+  {
+    "objectID": "slides/CAPI.html#creating-an-account",
+    "href": "slides/CAPI.html#creating-an-account",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "Creating an Account",
+    "text": "Creating an Account"
+  },
+  {
+    "objectID": "slides/CAPI.html#account-appearance",
+    "href": "slides/CAPI.html#account-appearance",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "Account Appearance",
+    "text": "Account Appearance\n\n\nThere are no Projects since we have not created any project that we intend to collect data on.\nNo deployed questionnaires since we have not developed any questionnaire."
+  },
+  {
+    "objectID": "slides/CAPI.html#install-kobocollect-app-on-mobile",
+    "href": "slides/CAPI.html#install-kobocollect-app-on-mobile",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "Install KoboCollect App on Mobile",
+    "text": "Install KoboCollect App on Mobile\n\nIt is necessary to install the KoboCollect App on ANDROID OS MOBILE DEVICE and configure it for collecting data"
+  },
+  {
+    "objectID": "slides/CAPI.html#configuring-the-app-on-mobile",
+    "href": "slides/CAPI.html#configuring-the-app-on-mobile",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "Configuring the App on Mobile",
+    "text": "Configuring the App on Mobile\n\n\n\nClick on New under the account appearance\n\n\n\nSelect Build from scratch and enter the details as shown\n\n\n\n\nWe are ready now to configure the app on our phones"
+  },
+  {
+    "objectID": "slides/CAPI.html#contd-3",
+    "href": "slides/CAPI.html#contd-3",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "Cont’d",
+    "text": "Cont’d\n\n\n\nWe select Manually enter project details\n\n\n\n\nIf you created your user account on the global server the URL is https://kc.kobotoolbox.org\nInsert the username you created while creating the account\nInsert the password you created while creating the account on the server"
+  },
+  {
+    "objectID": "slides/CAPI.html#contd-4",
+    "href": "slides/CAPI.html#contd-4",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "Cont’d",
+    "text": "Cont’d\n\n\n\nWe select Manually enter project details and click add\n\n\n\n\nAfter clicking Add you will get the following screen"
+  },
+  {
+    "objectID": "slides/CAPI.html#setting-up-blank-forms-in-kobocollect",
+    "href": "slides/CAPI.html#setting-up-blank-forms-in-kobocollect",
+    "title": "Key Principles of Effective Questionnaire Design",
+    "section": "Setting up Blank Forms in KoboCollect",
+    "text": "Setting up Blank Forms in KoboCollect\n\nOnce you have configured the URL,Username and Password in the app correctly, you can send blank forms to your device from the KoboToolbox server\n\nOpen KoboCollect\nMake sure that you have at least one project set up in your KoboToolbox user account and that your device is connected to the internet\nSelect Download Form from the home menu\n\n\n\n\n\n\n\n\nWarning\n\n\n\nWe have not created any questionnaire so you expect the message Nothing to Display at this stage."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#introduction-2",
+    "href": "slides/03-lecture-one.html#introduction-2",
+    "title": "Research Process",
+    "section": "Introduction",
+    "text": "Introduction\n\n\n\n\n\n\nDefinition\n\n\n\nA research design is the arrangement of conditions for collection and analysis of data in a manner that aims to combine relevance to the research purpose with economy in procedure.\n\n\nOne may split the overall research design into the following parts:\n\nThe sampling design: which deals with the method of selecting items to be observed for the given study\nThe observational design which relates to the conditions under which the observations are to be made\nThe statistical design which concerns with the question of how many items are to observed and how the information and data gathered are to be analysed\nThe operational design which deals with the techniques by which the procedures specified in the sampling, statistical and observational designs can be carried out."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#features-of-a-good-research-design",
+    "href": "slides/03-lecture-one.html#features-of-a-good-research-design",
+    "title": "Research Process",
+    "section": "Features of a Good Research Design",
+    "text": "Features of a Good Research Design\n\nA good design is often characterized by adjectives like flexible,appropriate,efficient, economical etc\nGenerally the design which minimizes bias and maximizes the reliability of the data collected and analyzed is considered a good design.\nThe design which gives the smallest experimental error is supposed to be the best design in many investigations.\nA design which yields maximal information and provides an opportunity for considering many different aspects of a problem is considered most appropriate and efficient design in respect of many research problems"
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#contd-1",
+    "href": "slides/03-lecture-one.html#contd-1",
+    "title": "Research Process",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nA research design appropriate for a particular research problem, usually involves the following considerations:\n\nThe means of obtaining the information\nThe availability and skills of the researcher and his/her staff\nThe objective of the problem to be studied\nThe availability of time and money for the research work"
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#concepts-relating-to-research-design",
+    "href": "slides/03-lecture-one.html#concepts-relating-to-research-design",
+    "title": "Research Process",
+    "section": "Concepts Relating to Research Design",
+    "text": "Concepts Relating to Research Design\n\nDependent and independent variables\n\n\nIf one variable depends upon or is a consequence of the other variable it is termed as dependent variable and the variable that is antecedent to the dependent variable is called independent variable\n\n\nExtraneous Variable\n\n\nIndependent variables that are not related to the purpose of the study but may affect the dependent variable are termed as extraneous variable"
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#contd-2",
+    "href": "slides/03-lecture-one.html#contd-2",
+    "title": "Research Process",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nControl\n\n\nThe term control is used when we design the study minimizing the effects of extraneous independent variables.\n\n\nConfounded Relationship\n\n\nWhen the dependent variable is not free from the influence of extraneous variable(s), the relationship between the dependent and independent variables is said to be confounded by an extraneous variable(s)."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#contd-3",
+    "href": "slides/03-lecture-one.html#contd-3",
+    "title": "Research Process",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nResearch Hypothesis\n\n\nThe research hypothesis is a predictive statement that relates an independent variable to a dependent variable.\n\n\nExperimental and non-experimental hypothesis-testing approach\n\n\nWhen the purpose of research is to test a research hypothesis, it is termed as hypothesis-testing research.\nResearch in which the independent variable is manipulated is termed ‘experimental hypothesis-testing research’ and a research in which an independent variable is not manipulated is called ‘non-experimental hypothesis-testing research’."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#contd-4",
+    "href": "slides/03-lecture-one.html#contd-4",
+    "title": "Research Process",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nExperimental and Control Group\n\n\nIn an experimental hypothesis-testing research when a group is exposed to usual conditions, it is termed a ‘control group’, but when the group is exposed to some novel or special condition, it is termed an ‘experimental group’.\n\n\nTreatment\n\n\nThe different conditions under which experimental and control groups are put are usually referred to as ‘treatments’."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#contd-5",
+    "href": "slides/03-lecture-one.html#contd-5",
+    "title": "Research Process",
+    "section": "Cont’d",
+    "text": "Cont’d\n\nExperiment\n\n\nThe process of examining the truth of a statistical hypothesis, relating to some research problem, is known as an experiment\n\n\nExperimental Units\n\n\nThe pre-determined plots or the blocks, where different treatments are used, are known as experimental units."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#introduction-3",
+    "href": "slides/03-lecture-one.html#introduction-3",
+    "title": "Research Process",
+    "section": "Introduction",
+    "text": "Introduction\n\nDifferent research designs can be conveniently described if we categorize them as:\n\nResearch design in case of exploratory research studies\nResearch design in case of descriptive and diagnostic research studies\nResearch design in case of hypothesis-testing research studies"
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#research-design-in-case-of-exploratory-research-studies",
+    "href": "slides/03-lecture-one.html#research-design-in-case-of-exploratory-research-studies",
+    "title": "Research Process",
+    "section": "Research Design in case of Exploratory Research Studies",
+    "text": "Research Design in case of Exploratory Research Studies\n\nExploratory research studies are also termed as formulative research studies.\nThe main purpose of such studies is that of formulating a problem for more precise investigation or of developing the working hypothesis from an operational point of view.\nThe major emphasis in such studies is on the discovery of ideas and insights.\nGenerally the following three methods in the context of research design for such design are talked about:\n\nThe survey of concerning literature\nThe experience survey\nThe analysis of insight-stimulating examples"
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#research-design-in-case-of-descriptive-and-diagnostic-research-studies",
+    "href": "slides/03-lecture-one.html#research-design-in-case-of-descriptive-and-diagnostic-research-studies",
+    "title": "Research Process",
+    "section": "Research design in case of descriptive and diagnostic research studies",
+    "text": "Research design in case of descriptive and diagnostic research studies\n\nDescriptive research studies are those studies which are concerned with describing the characteristics of a particular individual, or of a group, whereas diagnostic research studies determine the frequency with which something occurs or its association with something else.\nThe studies concerning whether certain variables are associated are examples of diagnostic research studies."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#research-design-in-case-of-hypothesis-testing-research-design",
+    "href": "slides/03-lecture-one.html#research-design-in-case-of-hypothesis-testing-research-design",
+    "title": "Research Process",
+    "section": "Research design in case of hypothesis-testing research design",
+    "text": "Research design in case of hypothesis-testing research design\n\nHypothesis-testing research studies (generally known as experimental studies) are those where the researcher tests the hypotheses of causal relationships between variables."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#introduction-4",
+    "href": "slides/03-lecture-one.html#introduction-4",
+    "title": "Research Process",
+    "section": "Introduction",
+    "text": "Introduction\n\nThe task of data collection begins after a research problem has been defined and research design/plan chalked out.\nWhile deciding about the method of data collection to be used for the study, the researcher should keep in mind two types of data:\n\nPrimary data - Are those that are collected afresh and for the first time and thus happen to be original in character.\nSecondary data - Are those which have already been collected by someone else and which have already been passed through the statistical process."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#introduction-5",
+    "href": "slides/03-lecture-one.html#introduction-5",
+    "title": "Research Process",
+    "section": "Introduction",
+    "text": "Introduction\n\nThere are several methods of collecting primary data which include:\n\nObservation Method\nInterview Method\nThrough questionnaires\nThrough schedules"
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#contd-6",
+    "href": "slides/03-lecture-one.html#contd-6",
+    "title": "Research Process",
+    "section": "Cont’d",
+    "text": "Cont’d\n\n\n\n\n\n\nDisadvantages\n\n\n\n\nIt is an expensive method\nThe information provided by this method is very limited\nUnforeseen factors may interfere with the observational task"
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#advantages-of-telephone-interviews",
+    "href": "slides/03-lecture-one.html#advantages-of-telephone-interviews",
+    "title": "Research Process",
+    "section": "Advantages of Telephone Interviews",
+    "text": "Advantages of Telephone Interviews\n\nIt is more flexible in comparison to mailing method.\nIt is faster than other methods i.e., a quick way of obtaining information.\nIt is cheaper than personal interviewing method; here the cost per response is relatively low.\nRecall is easy; callbacks are simple and economical.\nThere is a higher rate of response than what we have in mailing method; the non-response is generally very low.\nReplies can be recorded without causing embarrassment to respondents.\nInterviewer can explain requirements more easily."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#disadvantages-of-telephone-interviews",
+    "href": "slides/03-lecture-one.html#disadvantages-of-telephone-interviews",
+    "title": "Research Process",
+    "section": "Disadvantages of Telephone Interviews",
+    "text": "Disadvantages of Telephone Interviews\n\nLittle time is given to respondents for considered answers;\nSurveys are restricted to respondents who have telephone facilities.\nExtensive geographical coverage may get restricted by cost considerations.\nIt is not suitable for intensive surveys where comprehensive answers are required to various questions.\nPossibility of the bias of the interviewer is relatively more.\nQuestions have to be short and to the point; probes are difficult to handle."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#collecting-data-through-questionnaire",
+    "href": "slides/03-lecture-one.html#collecting-data-through-questionnaire",
+    "title": "Research Process",
+    "section": "Collecting Data Through Questionnaire",
+    "text": "Collecting Data Through Questionnaire\n\n\n\n\n\n\nDefinition\n\n\n\n\nThis method of data collection is quite popular, particularly in case of big enquiries.\nIt is being adopted by private individuals, research workers, private and public organisations and even by governments."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#advantages-of-questionnaires",
+    "href": "slides/03-lecture-one.html#advantages-of-questionnaires",
+    "title": "Research Process",
+    "section": "Advantages of Questionnaires",
+    "text": "Advantages of Questionnaires\n\nThere is low cost even when the universe is large and is widely spread geographically.\nIt is free from the bias of the interviewer; answers are in respondents’ own words.\nRespondents have adequate time to give well thought out answers.\nRespondents, who are not easily approachable, can also be reached conveniently.\nLarge samples can be made use of and thus the results can be made more dependable and reliable."
+  },
+  {
+    "objectID": "slides/03-lecture-one.html#disadvantages-of-questionnaires",
+    "href": "slides/03-lecture-one.html#disadvantages-of-questionnaires",
+    "title": "Research Process",
+    "section": "Disadvantages of Questionnaires",
+    "text": "Disadvantages of Questionnaires\n\nLow rate of return of the duly filled in questionnaires; bias due to no-response is often indeterminate.\nIt can be used only when respondents are educated and cooperating.\nThe control over questionnaire may be lost once it is sent.\nIt is difficult to know whether willing respondents are truly representative.\nThis method is likely to be the slowest of all."
   }
 ]

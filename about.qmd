@@ -1,5 +1,13 @@
 ---
-title: "About"
+title: "Lecture Slides"
 ---
 
-Lecture notes will be uploaded weekly here. 
+Lecture notes will be uploaded weekly here.
+
+## Slides
+
+[Lecture One Notes](/slides/index.html).
+
+```{=html}
+<iframe class="slides" src="/slides/index.html"></iframe>
+```
