@@ -2,31 +2,24 @@
 title: ""
 ---
 
-
-::: {.home}
-
-:::: {.grid .course-details}
-
+::: home
+::: {.grid .course-details}
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ### Lecturer
 
--  {{< fa user >}} &nbsp; [Dr. Mutua Kilai](https://sam-mutua.github.io/work/)
--  {{< fa university >}} &nbsp; Academic Block
+-   {{< fa user >}}   [Dr. Mutua Kilai](https://sam-mutua.github.io/work/)
+-   {{< fa university >}}   Academic Block
 :::
 
 ::: {.g-col-12 .g-col-sm-6 .g-col-md-4}
 ### Course details
 
-- {{< fa calendar >}} &nbsp; Every Thursday
-- {{< fa calendar-alt >}} &nbsp; May 2024 - August 2024
-- {{< fa clock >}} &nbsp; 4.00PM- 6.00PM
-- {{< fa location-dot >}} &nbsp; Virtual
-
+-   {{< fa calendar >}}   Every Thursday
+-   {{< fa calendar-alt >}}   May 2024 - August 2024
+-   {{< fa clock >}}   4.00PM- 6.00PM
+-   {{< fa location-dot >}}   Virtual
 :::
-
-
-::::
-
+:::
 :::
 
 # Schedule
@@ -37,9 +30,9 @@ The Semester runs from May to August 2024 per the [Department of Pure and Applie
 
 The Course combines three different courses together namely:
 
-- PhD in Pure Mathematics
-- MSc. Data Science and Analytics
-- MSc. Statistics
+-   PhD in Pure Mathematics
+-   MSc. Data Science and Analytics
+-   MSc. Statistics
 
 For PhD in Pure Mathematics the unit name is **Computational Methods** while for the other two courses the unit name is **Research Methodology**
 
@@ -47,26 +40,24 @@ For PhD in Pure Mathematics the unit name is **Computational Methods** while for
 
 The purpose is to *equip the learners with the mathematical knowledge and research skills in modern mathematical softwares*
 
-
 ## Learning Outcomes
 
-By the completion of the course the learners should be able to:
-<br>
+By the completion of the course the learners should be able to: <br>
 
 **PhD Pure Mathematics**
 
-- Construct proofs of different mathematical statements
-- Use LaTeX document processing system to write mathematical articles
-- Use Mathematical softwares to analyze mathematical models
+-   Construct proofs of different mathematical statements
+-   Use LaTeX document processing system to write mathematical articles
+-   Use Mathematical softwares to analyze mathematical models
 
 **Data Science and Statistics**
 
-- Explain basic research concepts
-- Discuss relevant tools and skills in conducting research
-- Explain common types of data applied in Business Research
-- Write a research proposal
-- Collect and Analyze data
-- Write a research report
+-   Explain basic research concepts
+-   Discuss relevant tools and skills in conducting research
+-   Explain common types of data applied in Business Research
+-   Write a research proposal
+-   Collect and Analyze data
+-   Write a research report
 
 ## Contents
 
@@ -74,9 +65,8 @@ By the completion of the course the learners should be able to:
 
 We will cover the following items and much more during the classes:
 
-Mathematical Writing in LaTeX document processing system: cross referencing, diagram inclusion, sectioning, document classes, LaTeX packages, mathematics computation and analysis using softwares such as R, MATLAB, SAGE, GAP, Mathematica and Python. 
-
+Mathematical Writing in LaTeX document processing system: cross referencing, diagram inclusion, sectioning, document classes, LaTeX packages, mathematics computation and analysis using softwares such as R, MATLAB, SAGE, GAP, Mathematica and Python.
 
 **Data Science and Statistics**
 
-Types of research, research process, Formulating a research problem, reviewing literature, identifying variables, constructing hypothesis, conceptualizing a study design, constructing instruments for data collection, selecting method of data collection, establishing validity and reliability of research instrument, processing and displaying data, writing research report, referencing. 
+Types of research, research process, Formulating a research problem, reviewing literature, identifying variables, constructing hypothesis, conceptualizing a study design, constructing instruments for data collection, selecting method of data collection, establishing validity and reliability of research instrument, processing and displaying data, writing research report, referencing.

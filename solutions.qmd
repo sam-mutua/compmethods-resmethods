@@ -2,6 +2,13 @@
 title: "Solutions"
 ---
 
-The solutions to the following items are available here:
+Templates for various exercises done in class.
 
--  {{< fa-pen >}} Assignments
+- [Thesis Template](https://www.overleaf.com/9376225629scqrczytdxyz#009d3a)
+
+- [Introduction to Latex Tutorial](https://www.overleaf.com/5492676145xbxhgffgrmqj#c9f308)
+
+- [Latex Template KyU](https://www.overleaf.com/7241987183xchkpbnrwfgk#f6e03f)
+
+
+- [Beamer Slides Template](https://www.overleaf.com/8759699744vnmztbbtbjbv#54d634)

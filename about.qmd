@@ -4,10 +4,61 @@ title: "Lecture Slides"
 
 Lecture notes will be uploaded weekly here.
 
-## Slides
 
-[Lecture One Notes](/slides/index.html).
+### Week One Lecture
 
-```{=html}
-<iframe class="slides" src="/slides/index.html"></iframe>
-```
+- [Introduction to Research Methods](/pdfs/Lecture_One.pdf)
+
+### Week Two Lecture
+
+- [Introduction to ODK/KoboCollect](/pdfs/Lecture_Two.pdf)
+
+### Week Three Lecture
+
+- [Literature Review](/pdfs/Literature.pdf)
+
+### Week Four Lecture
+
+- [Literature Review](/pdfs/Critique_literature.pdf)
+
+- [Sample Critique](/pdfs/sample_critique.pdf)
+
+### Week Five Lecture
+
+- [Sampling Design](/pdfs/sampling_design.pdf)
+
+
+### Week Six Lecture
+
+- [Testing Hypothesis](/pdfs/testing_hypothesis.pdf)
+
+
+### Week Seven Lecture
+
+- [Introduction to Latex](/pdfs/Introduction_to_Latex_Lecture.pdf)
+
+### Week Eight Lecture
+
+- [Latex Continued](/pdfs/Introduction_to_Latex_Lecture.pdf)
+
+
+### Week Nine Lecture
+
+- [Latex Continued](/pdfs/Introduction_to_Latex_Lecture.pdf)
+
+### Week Ten Lecture
+
+- [Beamer Slides](/pdfs/Beamer_Lecture_Slides.pdf)
+
+
+### Week Eleven Lecture
+
+- [Manuscript Writing](/pdfs/Manuscript_Writing.pdf)
+
+
+### Week Twelve Lecture
+
+- [Thesis Template](/pdfs/Thesis_Template.pdf)
+
+
+
